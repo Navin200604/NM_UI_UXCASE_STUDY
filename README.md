@@ -78,9 +78,10 @@ These designs reflect a deep focus on *clarity, usability, and emotion* — all 
 
 | Project | Figma Link |
 |----------|-------------|
-| 🧭 TravelMate |[](https://www.figma.com/design/OyX27UhniZMg7LzH1EOz4o/NM_UI_UX?node-id=1-2325&t=sOrtfZwUkvBlP7Tr-1) |
-| 💪 FitLife | [](https://www.figma.com/design/OyX27UhniZMg7LzH1EOz4o/NM_UI_UX?node-id=0-1&t=sOrtfZwUkvBlP7Tr-1) |
-| 🎵 MusicStream | [](https://www.figma.com/design/OyX27UhniZMg7LzH1EOz4o/NM_UI_UX?node-id=1-8891&t=sOrtfZwUkvBlP7Tr-1) |
+| 🧭 TravelMate | [](https://www.figma.com/design/OyX27UhniZMg7LzH1EOz4o/NM_UI_UX?node-id=1-2325&t=sOrtfZwUkvBlP7Tr-1)|
+| 💪 FitLife | [](https://www.figma.com/design/OyX27UhniZMg7LzH1EOz4o/NM_UI_UX?node-id=0-1&t=sOrtfZwUkvBlP7Tr-1)|
+| 🎵 MusicStream | [](https://www.figma.com/design/OyX27UhniZMg7LzH1EOz4o/NM_UI_UX?node-id=1-8891&t=sOrtfZwUkvBlP7Tr-1])|
+
 
 > *(Replace # with your actual Figma project URLs.)*
 
